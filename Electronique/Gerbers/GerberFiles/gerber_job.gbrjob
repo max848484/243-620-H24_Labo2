@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-02-26T14:36:54Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.1978,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "PCB robot balance V3.1 v107"
+        },
+        "Owner": "Julien Boriasse <jboriasse@cmaisonneuve.qc.ca>",
+        "Size": {
+            "X": 110,
+            "Y": 50.5616
+        }
+    }
+}
