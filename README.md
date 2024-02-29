@@ -5,7 +5,7 @@ Tout le matériel est prêt afin que le robot se tienne bien droit, il ne manque
 ![Assemblage](https://github.com/cegep-electronique-programmable/robot-balance-2023/blob/main/Media/animation.gif?raw=true)
 
 
-## Les différentes partie du labo
+## Les différentes parties du labo
 
 ### 1. Introduction aux moteurs step
 
