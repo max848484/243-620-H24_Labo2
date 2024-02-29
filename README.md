@@ -1,6 +1,6 @@
 # Laboratoire 2 - Robot balance
 
-Tout le matériel est prêt afin que le robot se tienne bien droit, il ne manque plus que le code, à votre tour de jouter !
+Tout le matériel est prêt afin que le robot se tienne bien droit, il ne manque plus que le code, à votre tour de jouer !
 
 ![Assemblage](https://github.com/cegep-electronique-programmable/robot-balance-2023/blob/main/Media/animation.gif?raw=true)
 
